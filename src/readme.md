@@ -16,6 +16,8 @@ O **Pitt** é um Assistente Virtual de Treinamento desenvolvido com Inteligênci
 
 O projeto utiliza um modelo LLM executado localmente através do **Ollama**, garantindo privacidade dos dados e respostas contextualizadas sem dependência de APIs externas pagas.
 
+Projeto desenvolvido a partir do Desafio **Construa seu Assistente Virtual com Inteligência Artifical** do curso **Accenture - Python para Análise e Automação de Dados** da [Dio.me](https://web.dio.me/).
+
 ---
 
 ## 🎯 Objetivos
@@ -88,6 +90,9 @@ PersonalTrainer/
 │   ├── historico_avaliacoes.csv
 │   ├── historico_treinos.csv
 │   └── perfil_aluno.json
+|
+|── docs/
+|   └── documentacao-agente.md
 │
 ├── src/
 │   └── app.py
@@ -262,36 +267,30 @@ Este projeto demonstra conceitos de:
 
 ---
 
-## 📷 Interface
+## 📚 Documentação
 
-Adicione capturas da aplicação dentro da pasta `assets` e referencie aqui:
+- [Documentação do Agente](./docs/documentacao-agente.md)
 
-```md
-![Tela Principal](./assets/app.png)
-```
+--- 
 
-ou
+## 📷 Interface do Pitt
 
-```md
-<p align="center">
-  <img src="./assets/app.png" width="900">
-</p>
-```
+Algumas captura de tela da interação com o Personal Trainer Pitt:
+
+[imagens](./assets/img1.png)
+[imagens](./assets/img2.png)
+[imagens](./assets/img3.png) 
+[imagens](./assets/img4.png) 
+[imagens](./assets/img5.png) 
+[imagens](./assets/img6.png) 
+[imagens](./assets/img7.png)  
+[imagens](./assets/img8.png)
+[imagens](./assets/img9.png)    
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por **Izaura Moreira**
 
 Projeto criado como desafio de IA aplicada ao contexto fitness utilizando **Python, Streamlit e Ollama**.
-
----
-
-## 📝 Licença
-
-Este projeto está disponível para fins educacionais e de aprendizado.
-
----
-
-⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório.
