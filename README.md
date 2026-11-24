@@ -309,6 +309,8 @@ Projeto criado como desafio de IA aplicada ao contexto fitness utilizando **Pyth
 - [DIO.me](https://web.dio.me/home) 
 - [Ollama](https://ollama.com/)
 - [Streamlit](https://streamlit.io/)
+- [Python](https://www.python.org/)
+  
 
 ---
 ## 📝 Licença
