@@ -1,0 +1,11 @@
+data,exercicio,grupo_muscular,series,repeticoes,carga_kg,tipo
+2025-10-01,Supino Reto,Peito,4,10,60.0,forca
+2025-10-02,Agachamento Livre,Pernas,3,8,70.0,forca
+2025-10-03,Puxada Alta,Costas,4,12,50.0,forca
+2025-10-05,Esteira (HIIT),Cardio,1,20,0.0,cardio
+2025-10-07,Desenvolvimento com Halteres,Ombros,3,10,18.0,forca
+2025-10-10,Rosca Direta,Bíceps,3,12,14.0,forca
+2025-10-12,Tríceps na Polia,Tríceps,3,12,25.0,forca
+2025-10-15,Leg Press 45,Pernas,4,10,140.0,forca
+2025-10-20,Remada Curvada,Costas,4,10,45.0,forca
+2025-10-25,Cadeira Extensora,Pernas,3,15,40.0,forca

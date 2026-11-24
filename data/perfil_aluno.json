@@ -1,0 +1,10 @@
+{
+  "nome": "Alexande Moura da Silva",
+  "idade": 32,
+  "altura_m": 1.75,
+  "peso_atual_kg": 78.5,
+  "objetivo_principal": "Hipertrofia e ganho de massa magra",
+  "nivel_experiencia": "Intermediário",
+  "restricoes_medicas": ["Leve desconforto no joelho direito ao agachar pesado"],
+  "meta_peso_kg": 82.0
+}

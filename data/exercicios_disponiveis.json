@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Supino Reto com Barra",
+    "grupo_muscular": "Peito",
+    "dificuldade": "intermediario",
+    "equipamento": "Barra e Banco",
+    "indicado_para": "Desenvolvimento da força e volume peitoral"
+  },
+  {
+    "nome": "Agachamento Livre",
+    "grupo_muscular": "Pernas",
+    "dificuldade": "avancado",
+    "equipamento": "Barra e Anilhas",
+    "indicado_para": "Construção de massa em membros inferiores e core"
+  },
+  {
+    "nome": "Puxada Alta na Polia",
+    "grupo_muscular": "Costas",
+    "dificuldade": "iniciante",
+    "equipamento": "Polia",
+    "indicado_para": "Fortalecimento de dorsal e melhora da postura"
+  },
+  {
+    "nome": "Desenvolvimento com Halteres",
+    "grupo_muscular": "Ombros",
+    "dificuldade": "intermediario",
+    "equipamento": "Halteres",
+    "indicado_para": "Estabilidade e hipertrofia de deltóides"
+  }
+]
