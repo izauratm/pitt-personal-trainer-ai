@@ -302,3 +302,17 @@ Exemplo de resposta organizando métricas e informações de treino em formato d
 Desenvolvido por **Izaura Moreira**
 
 Projeto criado como desafio de IA aplicada ao contexto fitness utilizando **Python, Streamlit e Ollama**.
+
+---
+
+📌 Links Utéis:
+- [DIO.me](https://web.dio.me/home) 
+- [Ollama](https://ollama.com/)
+- [Streamlit](https://streamlit.io/)
+
+---
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+<img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
