@@ -273,15 +273,27 @@ Este projeto demonstra conceitos de:
 
 --- 
 
-## 📷 Interface do Pitt
+## 📷 Interface e Evolução do Pitt
 
-Algumas capturas de tela da interação com o Personal Trainer Pitt:
+Confira abaixo algumas capturas de tela que demonstram o funcionamento do agente e a evolução do ajuste fino (*prompt engineering* e *guardrails*) durante o desenvolvimento:
 
-![imagens](./assets/img1.png)
-![imagens](./assets/img2.png)
-![imagens](./assets/img3.png) 
-![imagens](./assets/img4.png) 
-![imagens](./assets/img5.png)  
+### 🏋️ Consultas dentro do escopo (Treinos e Evolução)
+O Pitt analisa o histórico do aluno, respeita suas restrições médicas e sugere progressões personalizadas:
+![Consulta sobre treino - Exemplo 1](./assets/img1.png)
+![Consulta sobre treino - Exemplo 2](./assets/img3.png)
+
+### ⚠️ Desafio de Escopo: Comportamento inicial (Antes dos ajustes)
+Nas primeiras versões, ao receber perguntas fora do contexto esportivo, o modelo ainda tentava responder ou dar sugestões sobre temas alheios:
+![Erro de escopo na resposta inicial](./assets/img4.png)
+
+### 🛡️ Guardrail Ativo: Bloqueio de perguntas fora do contexto
+Após o refinamento do *System Prompt* e a implementação do classificador de escopo, o agente passou a recusar temas não relacionados de forma educada e redirecionar o foco para os treinos:
+![Acerto no bloqueio de perguntas fora do escopo](./assets/img2.png)
+
+### 📊 Análise estruturada de dados
+Exemplo de resposta organizando métricas e informações de treino em formato de tabela para facilitar a visualização do aluno:
+![Resposta estruturada em tabela](./assets/img5.png)
+   
 
 ---
 
