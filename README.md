@@ -281,11 +281,7 @@ Algumas capturas de tela da interação com o Personal Trainer Pitt:
 ![imagens](./assets/img2.png)
 ![imagens](./assets/img3.png) 
 ![imagens](./assets/img4.png) 
-![imagens](./assets/img5.png) 
-![imagens](./assets/img6.png) 
-![imagens](./assets/img7.png)  
-![imagens](./assets/img8.png)
-![imagens](./assets/img9.png)    
+![imagens](./assets/img5.png)  
 
 ---
 
